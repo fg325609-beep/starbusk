@@ -82,11 +82,7 @@ export default function Hero() {
               sizes="(min-width: 1024px) 420px, 80vw"
               className="rounded-[2.5rem] object-cover"
             />
-            <div className="absolute -right-6 -top-8 scale-[0.8] sm:-right-10 sm:scale-100">
-              <ScallopBadge size={104} fill="var(--color-green-500)">
-                <span className="text-2xl font-extrabold text-ink-950">45%</span>
-              </ScallopBadge>
-            </div>
+            
           </motion.div>
           <WavyLines
             className="pointer-events-none absolute -bottom-6 -right-16 h-32 w-52 text-green-400/60 sm:-right-24"

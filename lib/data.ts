@@ -215,7 +215,8 @@ export const EVENTS: EventCard[] = [
 ];
 
 export const CONTACT = {
-  instagram: "@supercoffee",
+  instagram: "@supercoffee", 
+  
   phone: "+7-999-999-99-99",
 };
 
